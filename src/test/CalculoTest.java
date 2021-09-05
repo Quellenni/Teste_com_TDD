@@ -49,7 +49,7 @@ public class CalculoTest {
         assertEquals(expResult, result);
     }
     @Test
-    public void divisao () {
+    public void divisaotest() {
 
         int a = 25;
         int b = 5;
