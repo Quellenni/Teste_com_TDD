@@ -15,7 +15,7 @@ public class CalculoTest {
     }
 
     @Test
-    public void somaTest () {
+    public void somaTest() {
 
         int a = 20;
         int b = 30;
@@ -28,7 +28,7 @@ public class CalculoTest {
     }
 
     @Test
-    public void subtracaotest() {
+    public void subtracaoTest() {
 
         int a = 15;
         int b = 10;
@@ -39,7 +39,7 @@ public class CalculoTest {
 
     }
     @Test
-    public void multiplicacaotest() {
+    public void multiplicacaoTest() {
 
         int a = 9;
         int b = 10;
@@ -49,7 +49,7 @@ public class CalculoTest {
         assertEquals(expResult, result);
     }
     @Test
-    public void divisaotest() {
+    public void divisaoTest() {
 
         int a = 25;
         int b = 5;
